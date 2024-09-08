@@ -1,6 +1,6 @@
 # ER Diagram Excercise
 I created a ER Diagram with the website [Supabase](https://supabase.com/).
-I discovered that i can't use the ENUM type of value defining the columns af a table. This is unpleasent.
+I discovered that i can't use the ENUM type of value defining the columns of a table. This is unpleasent.
 
 ## The tables used
 
