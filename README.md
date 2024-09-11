@@ -29,3 +29,6 @@ The client organizes events only in a number of exclusive ```locations``` that t
 🎯 Objective.
 Design the database for the platform in question, creating the ER diagram and then performing the queries provided.
 
+
+[Link to Notion EX](https://boolean.notion.site/DB-Gestore-Eventi-77bafdd913fd494b9d054600d1fe8644)
+
